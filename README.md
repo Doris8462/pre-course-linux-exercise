@@ -1,1 +1,0 @@
-# pre-course-linux-exercise
